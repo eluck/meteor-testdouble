@@ -1,0 +1,25 @@
+{
+  "name": "meteor-testdouble",
+  "version": "0.0.1",
+  "description": "A helper for testing Meteor applications with Mocha and testouble",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eluck/meteor-testdouble.git"
+  },
+  "keywords": [
+    "unit-testing",
+    "Meteor",
+    "testdouble",
+    "Mocha"
+  ],
+  "author": "Evgeny Lukianchikov (eluck)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eluck/meteor-testdouble/issues"
+  },
+  "homepage": "https://github.com/eluck/meteor-testdouble#readme"
+}
